@@ -21,5 +21,5 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest creado puramente
 Distribuido bajo la Licencia MIT. Consulte `LICENCE´ para obtener más información.
 
 ### Contacto
-Zulema Diaz: [Mi LinkedIn](https://www.linkedin.com/feed/)
+Zulema Diaz: [Mi LinkedIn](www.linkedin.com/in/zulema-diaz-rojas-0487b3233)
 
